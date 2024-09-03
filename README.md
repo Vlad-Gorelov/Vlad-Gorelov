@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Vlad
 
-<!--
-**Vlad-Gorelov/Vlad-Gorelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate iOS developer from Korolyov, Russia
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **SwiftUI, Combine**
+- 👯 I’m looking to collaborate on **Swift**
+- 💬 Ask me about **Swift, iOS Development**
+- 📫 How to reach me **vsg1993@yandex.ru**
+- ⚡ Fun fact **I really like travel to another countries **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/vadamask)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/vadamask)
+
+### Languages and Tools:
+
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode&logoColor=1575F9)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=cocoapods)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
