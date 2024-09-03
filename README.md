@@ -12,6 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/gorelov-vlad/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/slavikvegugin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vsg1993@yandex.ru)
+
 
 ### Languages and Tools:
 
