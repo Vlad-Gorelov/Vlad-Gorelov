@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/vadamask)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/vadamask)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/gorelov-vlad/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/slavikvegugin)
 
 ### Languages and Tools:
 
