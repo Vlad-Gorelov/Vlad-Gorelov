@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Swift**
 - 💬 Ask me about **Swift, iOS Development**
 - 📫 How to reach me **vsg1993@yandex.ru**
-- ⚡ Fun fact **I really like travel to another countries **
+- ⚡ Fun fact **I really like travel to another countries**
 
 ### Connect with me:
 
