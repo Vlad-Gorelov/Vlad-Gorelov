@@ -1,4 +1,4 @@
-# Hi, I'm Vladislav Gorelov
+# Vladislav Gorelov
 
 ### A passionate iOS developer from Korolyov, Russia
 
