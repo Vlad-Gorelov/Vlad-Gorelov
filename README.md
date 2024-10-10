@@ -23,7 +23,7 @@
 ![CocoaPods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=cocoapods)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
-## My pet projects: 
+## My apps: 
 
 ### <img src="https://i.ibb.co/NyjXxcq/icon.png" alt="" width="24"/> [Simno](https://github.com/Vlad-Gorelov/Simno)
 Simno is a simple and convenient app for creating and managing notes. It supports features for creating, editing, deleting, and pinning notes. The app also offers the ability to sort notes by name and supports dark mode as well as localization in three languages: English, Russian, and Korean.
