@@ -4,16 +4,16 @@
 
 I'm a Swift developer focused on building high-quality iOS applications with simplicity and user experience in mind. I love using the latest technologies and best practices to create efficient solutions.
 
-🛠️ <b>Skills and Competencies:</b>
+## 🛠 Skills and Competencies:
 
-- iOS app development with Swift
-- Architectural patterns: MVC, MVVM
-- Database management: Core Data, Realm
-- UI development with UIKit and growing experience with SwiftUI
-- Reactive programming with Combine
-- Unit and UI testing, performance optimization using Xcode Instruments
-- Integration with REST APIs and URLSession
-- Version control with Git and Git Flow
+- iOS app development with **Swift**
+- Architectural patterns: **MVC**, **MVVM**
+- Database management: **Core Data**, **Realm**
+- UI development with **UIKit** and growing experience with **SwiftUI**
+- Reactive programming with **Combine**
+- Unit and UI testing, performance optimization using **Xcode Instruments**
+- Integration with **REST APIs** and **URLSession**
+- Version control with **Git** and **Git Flow**
 
 - 📫 How to reach me **vsg1993@yandex.ru**
 
