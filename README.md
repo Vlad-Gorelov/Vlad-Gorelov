@@ -1,11 +1,23 @@
 # Vladislav Gorelov
 
-### A passionate iOS developer from Korolyov, Russia
+### iOS developer
 
-- 🌱 I’m currently learning **SwiftUI, Combine**
-- 👯 I’m looking to collaborate on **Swift**
-- 💬 Ask me about **Swift, iOS Development**
+I'm a Swift developer focused on building high-quality iOS applications with simplicity and user experience in mind. I love using the latest technologies and best practices to create efficient solutions.
+
+🛠️ <b>Skills and Competencies:</b>
+
+- iOS app development with Swift
+- Architectural patterns: MVC, MVVM
+- Database management: Core Data, Realm
+- UI development with UIKit and growing experience with SwiftUI
+- Reactive programming with Combine
+- Unit and UI testing, performance optimization using Xcode Instruments
+- Integration with REST APIs and URLSession
+- Version control with Git and Git Flow
+
 - 📫 How to reach me **vsg1993@yandex.ru**
+
+
   
 ### Connect with me:
 
