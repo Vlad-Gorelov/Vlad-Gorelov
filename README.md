@@ -15,9 +15,6 @@ I'm a Swift developer focused on building high-quality iOS applications with sim
 - Integration with **REST APIs** and **URLSession**
 - Version control with **Git** and **Git Flow**
 
-- 📫 How to reach me **vsg1993@yandex.ru**
-
-
   
 ### Connect with me:
 
